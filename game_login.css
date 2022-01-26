@@ -1,0 +1,22 @@
+.input {
+    width: 500px;
+}
+body {
+    background-color: black;
+}
+h1 {
+    color: chartreuse;
+}
+#bun {
+    background-color: orange;
+}
+.chair {
+    float: left;
+    width: 50%;
+    height: 1000px;
+    padding-top: 200px;
+}
+img {
+    height: 250px;
+    width: 250px;
+}
